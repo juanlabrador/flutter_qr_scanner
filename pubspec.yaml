@@ -6,7 +6,7 @@ homepage: https://github.com/contactlutforrahman/flutter_qr_scanner
 
 environment:
   sdk: ">=2.6.0 <3.0.0"
-  flutter: ">=1.2 <3.0.0"
+  flutter: ">=1.2.0 <3.0.0"
 
 flutter:
   plugin:
